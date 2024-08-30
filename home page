@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#7ba0c0;">
+<marquee font style="bold" scrolldelay="100"><font size="5" face="Verdana"><font color="#E34234">Yoga Bliss</marquee>
+
+<CENTER><h1>Life is to live peacefully</h1></CENTER>
+
+<p style="font-family:Arial;">Yoga bliss gives you the best place where you can find the best rotine that you acn have and how you can lead your life in the healthy manner</strong></p>
+<p> <a href="C:/Users/mca/Documents/bg.html">Click here to share your health problems</a></p>
+<img src="C:\Users\mca\Downloads\download.jpg" alt="Girl in a jacket" width="500" height="600">
+<li> this is to check01 </li>
+<menu>
+<ul>points to remember </ul>
+</menu>
+<table border="1">
+<tr>
+<td> top left </td>
+<td> top right </td>
+</tr>
+<tr>
+<td> bottom left </td>
+<td> bottom right </td>
+</tr>
+</table>
+</body>
+<footer>
+<p><a href="maillto:indhujaapsgtech@gmail.com"> ANy doubts reach out to</a></p>
+</footer>
+</html>
